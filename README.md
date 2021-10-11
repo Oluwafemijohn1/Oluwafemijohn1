@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an Software Engineer at Halo asset
+
+My favourite thing to talk about is tech startups and how tech helps solves problems around us.
+
+I am currently taking a deep dive into custom views in android and would very much love to talk about it
+
+After a long hard day of coding, I usually relax by watching movie and reading tech blogs.
+
+### My Skill Set 🔭
+* Android SDK
+* Kotlin
+* React Native
+* Java
+* PHP
+* JavaScript
+* Jetpack libraries
+* MVVM, MVI & MVP
+* RxJava
+* Dagger Hilt
+* Firebase
+* MYSQL & MySQLite
+* Postman
+* Test-Driven Development
+* Version Control with Git and Github
+* Agile Methodologies
+* Jira
+* HTML 5
+* CSS 3
+
+### SOCIAL MEDIAL
+* [LinkedIn](https://www.linkedin.com/in/oluwafemi-john-ogundipe-63a273118/)
+* [Twitter](https://twitter.com/johnoluwafemi01?s=08)
+* [Email](femiogundipe01@gmail.com)
+
+
+
