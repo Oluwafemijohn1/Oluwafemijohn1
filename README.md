@@ -48,5 +48,7 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 * [Twitter](https://twitter.com/johnoluwafemi01?s=08)
 * [Email](femiogundipe01@gmail.com)
 
+### VISITOR COUNT
+![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green)
 
 
