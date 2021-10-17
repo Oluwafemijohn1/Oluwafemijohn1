@@ -22,7 +22,7 @@ I am currently taking a deep dive into custom views in android and would very mu
 
 After a long hard day of coding, I usually relax by watching movie and reading tech blogs.
 
-### My Skill Set 🔭
+### MY SKILL SET 🔭
 * Android SDK
 * Kotlin
 * React Native
