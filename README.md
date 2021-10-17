@@ -49,7 +49,9 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 * [Email](femiogundipe01@gmail.com)
 
 ### VISITOR COUNT
-![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green&style=plastic)
+![Visitor Count](https://profile-counter.glitch.me/{Oluwafemijohn}/count.svg)
+
+<!-- ![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green&style=plastic) -->
 
 Thank you for visiting 
 
