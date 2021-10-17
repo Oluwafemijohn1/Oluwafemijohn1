@@ -51,7 +51,7 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 ### VISITOR COUNT
 ![Visitor Count](https://profile-counter.glitch.me/{Oluwafemijohn}/count.svg)
 
-<!-- ![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green&style=plastic) -->
+![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green&style=plastic)
 
 Thank you for visiting 
 
