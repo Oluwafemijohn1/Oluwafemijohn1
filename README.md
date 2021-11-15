@@ -46,7 +46,7 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 ### SOCIAL MEDIAL
 * [LinkedIn](https://www.linkedin.com/in/oluwafemi-john-ogundipe-63a273118/)
 * [Twitter](https://twitter.com/johnoluwafemi01?s=08)
-* [Email](femiogundipe01@gmail.com)
+<!-- * [Email](femiogundipe01@gmail.com) -->
 
 ### VISITOR COUNT
 ![Visitor Count](https://profile-counter.glitch.me/{Oluwafemijohn}/count.svg)
