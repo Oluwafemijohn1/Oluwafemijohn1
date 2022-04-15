@@ -53,6 +53,6 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 
 ![](https://komarev.com/ghpvc/?username=Oluwafemijohn&color=green&style=plastic)
 
-Thank you for visiting 
+Thank you for visiting.
 
 
