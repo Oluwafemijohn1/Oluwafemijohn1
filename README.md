@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an Software Engineer at Halo asset
-
+I'm an Software Engineer.
 My favourite thing to talk about is tech startups and how tech helps solves problems around us.
 
 I am currently taking a deep dive into custom views in android and would very much love to talk about it
