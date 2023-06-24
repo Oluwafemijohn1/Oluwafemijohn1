@@ -24,15 +24,16 @@ I am currently taking a deep dive into custom views in android and would very mu
 After a long hard day of coding, I usually relax by watching movie and reading tech blogs.
 
 ### MY SKILL SET 🔭
-* React Native
-* TypeScript
 * Android SDK
 * Kotlin
 * Java
-* PHP
-* JavaScript
+* KMP
 * Jetpack libraries
 * MVVM, MVI & MVP
+* JavaScript
+* React Native
+* TypeScript
+* PHP
 * RxJava
 * Dagger Hilt
 * Firebase
