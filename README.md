@@ -25,9 +25,9 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 
 ### MY SKILL SET 🔭
 * Android SDK
+* KMP
 * Kotlin
 * Java
-* KMP
 * Jetpack libraries
 * MVVM, MVI & MVP
 * JavaScript
