@@ -28,6 +28,10 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 * KMP
 * Kotlin
 * Java
+* Spring-boot
+* Spring Security
+* Hibernate
+* ORM
 * Jetpack libraries
 * MVVM, MVI & MVP
 * JavaScript
