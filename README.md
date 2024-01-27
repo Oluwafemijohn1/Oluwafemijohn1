@@ -32,6 +32,7 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 * Spring Security
 * Hibernate
 * ORM
+* MVC
 * Jetpack libraries
 * MVVM, MVI & MVP
 * JavaScript
